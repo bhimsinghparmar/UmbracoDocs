@@ -141,6 +141,6 @@ If you do choose to restore all content you’ll see the deploy engine counting 
 
 ![clone dialog](images/image09.png)
 
-When this is finished you’ll get a success message and you can go to the Umbraco backoffice.
+When this is finished you’ll get a success message and you can go to the Umbraco backoffice. 
 
 For more on how to work with a local clone of your site see the [Working Local documentation.](../Set-Up/Working-Locally/)
